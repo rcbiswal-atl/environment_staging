@@ -32,7 +32,7 @@ spec:
       serviceAccountName: cjoc
       containers:
       - name: rcbiswal-atl
-        image: gcr.io/core-workshop/helloworld-nodejs:rcbiswal-atl-1
+        image: gcr.io/core-workshop/helloworld-nodejs:rcbiswal-atl-2
         resources:
           requests:
             memory: "100Mi"
